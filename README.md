@@ -4,11 +4,11 @@ A **shitty** .bat *script* (**lol**) to run .jar files without installing java
 
 ### Installation
 
-download the jar file from [latest release](https://github.com/nv95/kotatsu-dl/releases/latest)
+Download the jar file from [latest release](https://github.com/nv95/kotatsu-dl/releases/latest)
 
-download the kotatsu-portable from [here](https://github.com/ghazzor/kotatsu-dl-portable-win/releases/latest)
+Download the kotatsu-portable from [here](https://github.com/ghazzor/kotatsu-dl-portable-win/releases/latest)
 
-**copy** the **kotatsu-dl.jar** file to root of **kotatsu-portable folder** 
+**Copy** the **kotatsu-dl.jar** file to root of **kotatsu-portable folder** 
 
 # Kotatsu-dl
 
