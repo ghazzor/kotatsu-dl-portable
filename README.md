@@ -1,4 +1,4 @@
-# Kotatsu-dl-portable-win
+# Kotatsu-dl-portable
 
 A **shitty** .bat *script* (**lol**) to run .jar files without installing java
 
