@@ -1,3 +1,7 @@
+# Kotatsu-dl-portable-win
+
+A shitty .bat script(lol) to run .jar files without installing java
+
 # Kotatsu-dl
 
 Cross-platform desktop application to download manga from various services
