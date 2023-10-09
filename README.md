@@ -10,6 +10,10 @@ Download the kotatsu-portable from [here](https://github.com/ghazzor/kotatsu-dl-
 
 **Copy** the **kotatsu-dl.jar** file to root of **kotatsu-portable folder** 
 
+### linux release soon (probably)
+
+A **shitty** bash *script* (**lol**) to run .jar files without installing java [**soon**]
+
 # Kotatsu-dl
 
 Cross-platform desktop application to download manga from various services
